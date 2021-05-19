@@ -39,3 +39,36 @@ I am a Software Developer with brief experience in Software Quality Assurance.
 ➖ I'm Self-motivated, energetic and highly ethical in all work related assignments thus able to immediately contribute to corporate goals and objects.  
 ➖ I've Good written, communication, interpersonal skills. I'm a proven team player with an analytical mind bent to problem solving and delivering solutions.
 
+### My Projects- 
+
+#### Hiddden Shelf-
+:sparkles: Anyone can publish a blogpost on this simple website without any hassle.   
+:sparkles: To post a blog on website, go to /compose url and post.   
+:art: It is built using Node.js, MongoDB, Heroku on back-end and HTML, CSS, Javascript on front-end.    
+:wrench: Check out the project code [here.](https://github.com/SurajJadhav7/Hidden-Shelf)   
+:tada: Check out this project [here.](https://hidden-shelf-40003.herokuapp.com/)      
+
+#### tcGen-   
+:art: Automated UI Test Cases Coverage Sheets Generator built in Python.    
+:sparkles: It's a command line tool which generates UI test case coverage sheets in xls format.    
+:sparkles: It reduces UI test cases coverage efforts to just single command.   
+:wrench: Check out the project code [here.](https://github.com/simpleQE/tcGen)   
+
+#### Radiant Hollows-
+:sparkles: Signup to my newsletter with this website except I don't write anewsletter :).   
+:art: It is built using Node.js, MailChimp API, Heroku on back-end and HTML, CSS, Bootstrap, Javascript on front-end.    
+:wrench: Check out the project code [here.](https://github.com/SurajJadhav7/Radiant-Hollows)   
+:tada: Check out this project [here.](https://radiant-hollows-41564.herokuapp.com/)      
+
+#### Morning Headland-
+:sparkles: Image Search for any general english keyword like Nature, Books etc.   
+:art: It is built using Node.js, Pexels API, Heroku on back-end and HTML, CSS, Bootstrap, Javascript on front-end.    
+:wrench: Check out the project code [here.](https://github.com/SurajJadhav7/Morning-Headland)   
+:tada: Check out this project [here.](https://morning-headland-75220.herokuapp.com/)      
+
+#### Pacific Castle-
+:sparkles: A To Do List web application which can add, delete tasks.   
+:art: It is built using Node.js, MongoDB, Heroku on back-end and HTML, CSS, Javascript on front-end.    
+:wrench: Check out the project code [here.](https://github.com/SurajJadhav7/Pacific-Castle)   
+:tada: Check out this project [here.](https://pacific-castle-09028.herokuapp.com/)      
+
