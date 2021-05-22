@@ -34,11 +34,6 @@ I am a Software Developer with brief experience in Software Quality Assurance.
 :small_blue_diamond: Expertise in Understanding and Analyzing Test Requirements, Tracking changes and maintenance of Test Requirements.   
 :small_blue_diamond: Proficient in devising all the artifacts of testing such as Test Scenarios, Test Cases, Defect Reports and Test Summary reports.
 
-##### Other Qualities-
-
-➖ I'm Self-motivated, energetic and highly ethical in all work related assignments thus able to immediately contribute to corporate goals and objects.  
-➖ I've Good written, communication, interpersonal skills. I'm a proven team player with an analytical mind bent to problem solving and delivering solutions.
-
 ### My Projects- 
 
 #### Hiddden Shelf-
