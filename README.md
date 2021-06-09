@@ -21,8 +21,7 @@ I am a Software Developer with brief experience in Software Quality Assurance.
 ### My Experience- 
 
 #### Software Development-
-
-:small_blue_diamond: 1+ year of experience in Web Applications Development with Node.js.  
+ 
 :small_blue_diamond: Built several websites using Node.js, Express.js, MongoDB, Pexels API, MailChimp API in the backend and HTML, CSS and JavaScript in front end side of web applications.    
 :small_blue_diamond: 6 months of experience in Software Development in EDI gateway team of CVS Health.  
 :small_blue_diamond: Developed a scripting tool which reduces the overall transaction time by 90%.  
