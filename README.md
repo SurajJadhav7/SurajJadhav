@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a Software Developer with brief experience in Software Quality Assurance.  
-🔭 I’m currently working in QA team of Apple’s Data Science and Analytics tool through Infosys.  
+🔭 I’m currently working as Jr. Software Engineer at Sephora.  
 :technologist: I develop web applications, selenium scripts in my spare time.
 
 ### My Experience- 
 
 #### Software Development-
  
-:small_blue_diamond: Built several websites using Node.js, Express.js, MongoDB, Pexels API, MailChimp API in the backend and HTML, CSS and JavaScript in front end side of web applications.    
+:small_blue_diamond: Built several websites using Ruby on Rails, VueJS, Node.js, Express.js, MongoDB, Pexels API, MailChimp API in the backend and HTML, CSS and JavaScript in front end side of web applications.    
 :small_blue_diamond: 6 months of experience in Software Development in EDI gateway team of CVS Health.  
 :small_blue_diamond: Developed a scripting tool which reduces the overall transaction time by 90%.  
 
