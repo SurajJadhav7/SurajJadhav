@@ -9,7 +9,7 @@ I am a Software Developer with 4+ yrs of experience in various technolgies which
 #### Software Development-
  
 :small_blue_diamond: Built several websites using Node.js, Express.js, Nest.js, MongoDB, Pexels API, MailChimp API in the backend and HTML, CSS and JavaScript in front end side of web applications.    
-:small_blue_diamond: 6 months of experience in Software Development in EDI gateway team of CVS Health.  
+:small_blue_diamond: Currently working on Search Infra at turing.com.
 :small_blue_diamond: Developed a scripting tool which reduces the overall transaction time by 90%.  
 
 ### My Projects- 
