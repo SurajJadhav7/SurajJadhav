@@ -1,39 +1,32 @@
 ### Hi there 👋
 
-<!--
-**SurajJadhav7/SurajJadhav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am a Software Developer with brief experience in Software Quality Assurance.  
-🔭 I’m currently working as Jr. Software Engineer at Sephora.  
+I am a Software Developer with 4+ yrs of experience in various technolgies which includes NodeJS, NestJS, ElasticSearch, MySQL, Redis etc.
+🔭 I’m currently working as Software Engineer at Turing.com.  
 :technologist: I develop web applications, selenium scripts in my spare time.
 
 ### My Experience- 
 
 #### Software Development-
  
-:small_blue_diamond: Built several websites using Ruby on Rails, VueJS, Node.js, Express.js, MongoDB, Pexels API, MailChimp API in the backend and HTML, CSS and JavaScript in front end side of web applications.    
+:small_blue_diamond: Built several websites using Node.js, Express.js, Nest.js, MongoDB, Pexels API, MailChimp API in the backend and HTML, CSS and JavaScript in front end side of web applications.    
 :small_blue_diamond: 6 months of experience in Software Development in EDI gateway team of CVS Health.  
 :small_blue_diamond: Developed a scripting tool which reduces the overall transaction time by 90%.  
 
-#### Quality Assurance-
-
-:small_blue_diamond: 6 months of of experience in the area of Software Automation Testing with good understanding of Test Planning, Test Design, Test Execution, Defect Reporting and Tracking.  
-:small_blue_diamond: Strong Experience in Automating Web Application Testing using Selenium WebDriver (Python) with Robot Framework.   
-:small_blue_diamond: Expertise in Understanding and Analyzing Test Requirements, Tracking changes and maintenance of Test Requirements.   
-:small_blue_diamond: Proficient in devising all the artifacts of testing such as Test Scenarios, Test Cases, Defect Reports and Test Summary reports.
-
 ### My Projects- 
+
+#### Splitwise Backend-
+:sparkles: Splitwise is a free tool for friends and roommates to track bills and other shared expenses, so that everyone gets paid back.   
+:sparkles: I've created backend for application including 'settlement' feature.   
+:art: It is built using Node.js and MySQL.    
+:wrench: Check out the project code [here.](https://github.com/SurajJadhav7/splitwise)
+
+#### HappyShop-
+:sparkles: HappyShop is a complete Ecommerce application with separate frontend (Vue.js), Backend (ROR) and Admin panel.   
+:art: It is built using Roby on Rails, Vue.js, RabbitMQ, Postgres etc.    
+:wrench: Check out the project code
+- [Backend](https://github.com/SurajJadhav7/happyshop-backend)
+- [Frontend](https://github.com/SurajJadhav7/happyshop-frontend)
+- [Admin Panel](https://github.com/SurajJadhav7/happyshop-admin)
 
 #### Hiddden Shelf-
 :sparkles: Anyone can publish a blogpost on this simple website without any hassle.   
